@@ -1,7 +1,8 @@
+## Учебные проекты
+
 ### Лендинг
 | Проект | Дата |
 |--|--|
-| <a href="http://kolmykoff.tilda.ws/portfolio">Portfolio</a> | 26/07/2023 |
 | <a href="http://kolmykoff.tilda.ws/page32252908.html">Cамокаты - Яндекс GO</a> | 03/2023 |
 | <a href="https://kolmykov.github.io/Noemi/">Блог</a> | 12/2022 - 12/2022 |
 
@@ -9,5 +10,7 @@
   
 | Проект | Дата |
 |--|--|
-| <a href="https://i.pinimg.com/originals/f2/0b/84/f20b8446f0faacfaa94ddd1080e6f002.png">Flower shop</a> | 06/08/2023 |
+| <a href="https://www.figma.com/proto/3Mc6kKYD6WMgQ6579FfQjH/Homeworks-(08.09.23)?page-id=0%3A1&type=design&node-id=4-2&viewport=437%2C482%2C0.11&t=5dB67K91X0FazGg9-1&scaling=scale-down&starting-point-node-id=4%3A2&mode=design">Baskets shop</a> | 08/09/2023 |
+| <a href="https://www.figma.com/proto/06UpZRSUSswhxGcBmbZq5C/Tinkoff-mobile-(27.08.23)?page-id=0%3A1&type=design&node-id=8-481&viewport=278%2C585%2C0.35&t=bs0gOPYMDMxsZQyi-1&scaling=scale-down&starting-point-node-id=1%3A469&mode=design">Tinkoff mobile</a> | 27/08/2023 |
+| <a href="https://www.figma.com/proto/YXIdD9Z1yqqvUBbgfzqj4c/Homeworks-(20.08.23)?page-id=0%3A1&type=design&node-id=35-31&viewport=-3826%2C272%2C1.39&t=v8yI35rX5NUEPuOE-1&scaling=min-zoom&starting-point-node-id=54%3A496&mode=design">Flower shop</a> | 20/08/2023 |
 | <a href="https://i.pinimg.com/originals/f0/b2/40/f0b240aff419973e78ba9a5e253b0811.png">Баннер и Меню для ВК</a> | 03/08/2023 |
